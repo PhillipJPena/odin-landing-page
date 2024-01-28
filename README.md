@@ -1,2 +1,3 @@
 # odin-landing-page
-Odin Project: Landing Page - HTML &amp; CSS basics
+
+Odin Project: Landing Page - HTML & CSS basics
